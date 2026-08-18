@@ -1,0 +1,10 @@
+{
+  "name": "PixelPass",
+  "description": "Analyze product photos or names to detect whether a local price is fair compared to international world market benchmarks.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
